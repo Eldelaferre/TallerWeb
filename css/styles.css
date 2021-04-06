@@ -1,0 +1,198 @@
+body{
+
+    /*background-image: url('/TallerWeb/Imagen/1Fondo.jpg');
+    background-size: cover;*/
+    background-color: #ffffff;
+
+}
+
+.head{
+    background-color: rgba(24, 98, 133, 0.63);
+    height: 130px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.contenedor{
+    background-color: 0;
+    width: 300px;
+    height: 80px;
+    margin-top: 25px;
+    float: left;
+}
+.logo{
+    background-color: 0;
+    background-image: url('/TallerWeb/Imagen/cartoon-1299393_640.png');
+    background-size: contain;
+    width: 80px;
+    height: 75px;
+    margin-left: 220px;
+    margin-right: auto;
+    margin-top: 15px;
+    
+}
+.Titulo{
+    background-color:0;
+    color: #1a1952;
+    font-size:35px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    width: 100%;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+.main{
+    background-color:0;
+    height: 800px;
+    position: relative;
+}
+
+nav{
+    background-color:0;
+    float: right; 
+    margin-top: 90px;
+    margin-right: 30px;
+}
+ul{
+    background-color: 0;
+    display: inline;
+}
+li{
+    background-color:0;
+    margin-top : 5px ;
+    display: inline;
+}
+a{
+    color: #192b52;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    margin-right: 5px;
+}
+
+.titu1{
+    background-color: ;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+
+}
+
+.contenido{
+    width: 35%;
+    margin-left: auto;
+    margin-right: 160px;
+    background-color: rgba(64, 233, 224, 0.329);
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    text-align: justify;
+    border-radius: 20px;
+    
+    
+}
+.titu2{
+    background-color: 0;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+
+}
+.cont2{
+    width: 30%;
+    margin-left:160px;
+    margin-right: auto;
+    background-color: rgba(109, 248, 241, 0.397);
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    text-align: justify;
+    border-radius: 20px;
+}
+
+
+.divsecreto{
+    background-color: 0;
+    text-align: center;
+
+}
+
+.Comunicate{
+    background-color: 0;
+    text-align: center;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+fieldset{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    background-color: rgba(82, 211, 250, 0.459);
+    border: 0;
+
+}
+.legend{
+    background-color: 0;
+    text-align: center;
+    color: rgb(5, 5, 5);
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+[type="text"]{
+    display: block;
+    width: 60%;
+    height: 25px;
+    margin: auto;
+    margin-top: 5px;
+    background-color: transparent;
+    border: 0;
+    border-bottom: 1px solid rgb(0, 132, 255);
+
+
+}
+[type="email"]{
+    display: block;
+    width: 60%;
+    height: 25px;
+    margin: auto;
+    margin-top: 5px;
+    background-color: transparent;
+    border: 0;
+    border-bottom: 1px solid rgb(0, 153, 255);
+    
+
+
+}
+[type="number"]{
+    display: block;
+    width: 60%;
+    height: 25px;
+    margin: auto;
+    margin-top: 5px;
+    background-color: transparent;
+    border: 0;
+    border-bottom: 1px solid rgb(0, 153, 255);
+}
+[type="submit"]{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    margin-top: 30px;
+    border-radius: 20px;
+    
+}
